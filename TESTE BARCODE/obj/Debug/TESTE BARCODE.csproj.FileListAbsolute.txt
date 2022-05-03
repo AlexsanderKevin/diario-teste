@@ -1,0 +1,15 @@
+C:\Users\arodrigues5\source\repos\TESTE 3.0\TESTE BARCODE\bin\Debug\TESTE BARCODE.exe.config
+C:\Users\arodrigues5\source\repos\TESTE 3.0\TESTE BARCODE\bin\Debug\TESTE BARCODE.exe
+C:\Users\arodrigues5\source\repos\TESTE 3.0\TESTE BARCODE\bin\Debug\TESTE BARCODE.pdb
+C:\Users\arodrigues5\source\repos\TESTE 3.0\TESTE BARCODE\obj\Debug\TESTE BARCODE.csprojAssemblyReference.cache
+C:\Users\arodrigues5\source\repos\TESTE 3.0\TESTE BARCODE\obj\Debug\TESTE_BARCODE.Form1.resources
+C:\Users\arodrigues5\source\repos\TESTE 3.0\TESTE BARCODE\obj\Debug\TESTE_BARCODE.Properties.Resources.resources
+C:\Users\arodrigues5\source\repos\TESTE 3.0\TESTE BARCODE\obj\Debug\TESTE BARCODE.csproj.GenerateResource.cache
+C:\Users\arodrigues5\source\repos\TESTE 3.0\TESTE BARCODE\obj\Debug\TESTE BARCODE.csproj.CoreCompileInputs.cache
+C:\Users\arodrigues5\source\repos\TESTE 3.0\TESTE BARCODE\obj\Debug\TESTE BARCODE.exe
+C:\Users\arodrigues5\source\repos\TESTE 3.0\TESTE BARCODE\obj\Debug\TESTE BARCODE.pdb
+C:\Users\arodrigues5\source\repos\TESTE 3.0\TESTE BARCODE\bin\Debug\SERVICE.accdb
+\\10.33.33.2\service\PROGRAMAS DEPOT\PROGRAMAS - ALEX\TESTE 3.0\TESTE BARCODE\obj\Debug\TESTE BARCODE.csprojAssemblyReference.cache
+\\10.33.33.2\service\PROGRAMAS DEPOT\PROGRAMAS - ALEX\TESTE 3.0\TESTE BARCODE\obj\Debug\TESTE BARCODE.exe
+\\10.33.33.2\service\PROGRAMAS DEPOT\PROGRAMAS - ALEX\TESTE 3.0\TESTE BARCODE\obj\Debug\TESTE BARCODE.pdb
+\\10.33.33.2\service\PROGRAMAS DEPOT\PROGRAMAS - ALEX\TESTE 3.0\TESTE BARCODE\obj\Debug\TESTE BARCODE.csproj.AssemblyReference.cache
