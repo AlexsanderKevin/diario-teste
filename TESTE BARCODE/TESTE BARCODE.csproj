@@ -52,7 +52,16 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="modulos\grid\MostrarGrid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modulos\LimparFormulario.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="modulos\login\logar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modulos\login\Logout.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Program.cs" />
